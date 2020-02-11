@@ -1,0 +1,4 @@
+{
+	"presets": [["@babel/preset-react", { "useSpread": true }], "@babel/preset-env"],
+	"plugins": ["@babel/plugin-proposal-class-properties"]
+}
